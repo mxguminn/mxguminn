@@ -1,4 +1,4 @@
--  hi, i’m <b>@mxguminn</b>, 16, from Toronto, Ontario
+-  hi, i’m <b>@mxguminn</b> 
 - i know how to code in Python, HTML, CSS & JS, Java
 -  i'm learning C, Git, and Swift
 -  i would love to collabarate on any astronomy && data science projects
