@@ -1,7 +1,7 @@
 -  hi, i’m <b>@mxguminn</b> 
 - i know how to code in Python, HTML, CSS & JS, Java
 -  i'm learning C++, and Swift
--  i would love to collabarate on any astronomy && data science projects
+-  i'm intersted in astronomy & data science projects
 -  you can reach me on insta: @mxguminn333 || email catharyne717@gmail.com
 
 <!---
